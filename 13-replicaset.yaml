@@ -13,6 +13,7 @@ spec:
       purpose: rs-demo
       project: roboshop
       app: nginx
+
   template:
     metadata:
       labels:
